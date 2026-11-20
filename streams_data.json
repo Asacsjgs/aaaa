@@ -1,0 +1,28 @@
+[
+  {
+    "id": "stream_1793015082045_6xc4",
+    "slug": "chg",
+    "title": "ه",
+    "category": "sports",
+    "originalUrl": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "streamType": "hls",
+    "status": "active",
+    "watermarkText": "© جميع الحقوق محفوظة | لوحة التحكم",
+    "quality": "1080p HD",
+    "refererHeader": "",
+    "userAgentHeader": "",
+    "password": "",
+    "allowedDomains": "",
+    "viewsCount": 3,
+    "currentViewers": 1,
+    "createdAt": "2026-10-26T11:44:42.045Z",
+    "updatedAt": "2026-10-26T11:44:42.045Z",
+    "pauseNoticeMessage": "البث متوقف مؤقتاً بواسطة صاحب الرابط.",
+    "customPosterUrl": "https://i.ibb.co/BK7PcpCk/image-a473215.jpg",
+    "customLogoUrl": "",
+    "logoPosition": "top-right",
+    "logoSize": "md",
+    "streamToken": "e4zcnoa",
+    "connectedApps": []
+  }
+]
